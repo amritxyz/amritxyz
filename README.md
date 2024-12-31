@@ -94,15 +94,15 @@
 </div>
 
 <div align="left">
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nyx-void&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=amritxyz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <div align="left">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nyx-void&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amritxyz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-void&label=Profile%20views&color=0e75b6&style=flat" alt="nyx-void" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritxyz&label=Profile%20views&color=0e75b6&style=flat" alt="nyx-void" /> </p>
 
 ###
