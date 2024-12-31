@@ -81,7 +81,7 @@
 
 ###
 
-<img  src="https://raw.githubusercontent.com/nyx-void/nyx-void/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/amritxyz/amritxyz/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
 ###
 
@@ -90,7 +90,7 @@
 ###
 
 <div align="left">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nyx-void&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amritxyz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="left">
@@ -103,6 +103,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritxyz&label=Profile%20views&color=0e75b6&style=flat" alt="nyx-void" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritxyz&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
 
 ###
