@@ -91,10 +91,10 @@
 
 ###
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/amritxyz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/amritxyz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/amritxyz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/amritxyz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!-- <div align="left"> -->
 <!-- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amritxyz&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
