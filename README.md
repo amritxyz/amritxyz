@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006.<br>📚 I'm currently learning Lua, Rust.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
+<p align="left">✨ Creating bugs since 2006.<br>📚 I'm currently learning OpenGL with Zig.<br>🎯 Goals: Make suckless programs.<br>🎲 Fun fact: World first developer was a women!</p>
 
 ###
 
