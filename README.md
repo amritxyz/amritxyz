@@ -4,7 +4,7 @@ Want to know more about me?<br />
 $: [amritxyz.github.io](https://amritxyz.github.io)
 
 Want to have a conversation?<br />
-$: `amritxyz0@gmail.com` | [open-mail](mailto:amritxyz0@gmail.com)
+$: `nyxvoid00@gmail.com` | [open-mail](mailto:nyxvoid00@gmail.com)
 
 ---
 
